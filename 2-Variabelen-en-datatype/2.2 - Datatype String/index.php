@@ -8,11 +8,9 @@
 </head>
 <body>
 <?php
- $score = 0;
- echo $score
+$naam = "Rayan Lahoua";
+echo $naam;
+
 ?>
 </body>
 </html>
-
-
-
