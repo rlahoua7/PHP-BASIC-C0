@@ -11,6 +11,7 @@
         $item = "<li>zonnebril</li>";
         $item .= "<li>voetbal</li>";
         $item  .= "<li>kleren</li>";
+        echo ($item)
     ?>
 </body>
 </html>
