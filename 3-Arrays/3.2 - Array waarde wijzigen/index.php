@@ -8,10 +8,10 @@
 </head>
 <body>
     <?php
-    $myDogNames = array("<li>fred</li>", "<li>don2</li>", "<li>leeuw3</li>");
+    $myDogNames = array("<li>fred</li>", "<li>don</li>", "<li>leeuw</li>");
     echo $myDogNames[0];
+    echo $myDogNames[1];
     echo $myDogNames[2];
-    echo $myDogNames[3];
     ?>
 </body>
 </html>
