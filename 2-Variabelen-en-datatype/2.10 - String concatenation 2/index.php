@@ -8,8 +8,9 @@
 </head>
 <body>
     <?php
-         $item = "<li>bril</li>";
-         $item .= "<li>koffer</li>";
+        $item = "<li>zonnebril</li>";
+        $item .= "<li>voetbal</li>";
+        $item  .= "<li>kleren</li>";
     ?>
 </body>
 </html>
