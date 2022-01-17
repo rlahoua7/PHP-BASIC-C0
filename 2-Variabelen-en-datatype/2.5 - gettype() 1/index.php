@@ -10,6 +10,6 @@
   <?php
     $voornaam = "Tom";
     echo gettype($voornaam);
-?>
+?>.
 </body>
 </html>
